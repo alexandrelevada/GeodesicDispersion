@@ -1,6 +1,7 @@
 # Uncovering geodesic dispersion in random fields: a geometric insight into time irreversibility
 
 ABSTRACT
+
 Gaussian random fields (GRFs) are fundamental tools for modeling
 stochastic phenomena in physics, with applications ranging from statistical mechanics
 and thermodynamics to cosmology. Recent advances in information geometry have
